@@ -1,2 +1,17 @@
 *.class
 *.log
+
+*.class
+
+# Log file
+*.log
+
+.DS_Store
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
